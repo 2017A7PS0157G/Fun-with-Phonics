@@ -344,20 +344,20 @@ p.dashed {
 	border-style: dashed;
 	border-color: #333;
 	float: left;
-	padding: 100px;
+	padding: 10px;
   margin-top: 30px;
-  margin-right: 90px;
+  margin-right: 60px;
   margin-bottom: 30px;
-  margin-left: 90px;
+  margin-left: 60px; 
 }
 
 /* adding rounded corners */
 #rcorners3 {
-  border-radius: 25px;
-  background: url(background1.jpg);
+  border-radius: 100px;
+  background-color: #F78906;
   background-position: left top;
   background-repeat: repeat;
-  padding: 20px; 
+/*  padding: 20px; */ 
   width: 200px;
-  height: 350px;  
+  height: 200px;  
 }
